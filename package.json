@@ -1,0 +1,36 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to establish a suitable workflow for maintaining a web component library that will facilitate various application release stages, including development, testing, quality assurance, and production.",
+  "main": "index.js",
+  "scripts": {
+    "generate:changelog": "npx conventional-changelog -p -i CHANGELOG.md -s -r 2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filippofantacci/git-flow.git"
+  },
+  "keywords": [
+    "git",
+    "git-flow",
+    "workflow"
+  ],
+  "author": "Filippo Fantacci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filippofantacci/git-flow/issues"
+  },
+  "homepage": "https://github.com/filippofantacci/git-flow#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "conventional-changelog": "^5.1.0"
+  }
+}

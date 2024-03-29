@@ -2,7 +2,7 @@
 In this repo i will test git-flow workflow
 
 ## purpose
-The purpose of this project is to create a proper workflow for mantining a web component library which will serve many application in their release steps (dev, test, QA, production).
+The purpose of this project is to establish a suitable workflow for maintaining a web component library that will facilitate various application release stages, including development, testing, quality assurance, and production.
 
 
 ## resources
