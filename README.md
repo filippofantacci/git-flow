@@ -6,6 +6,6 @@ The purpose of this project is to create a proper workflow for mantining a web c
 
 
 ## resources
-	- https://nvie.com/posts/a-successful-git-branching-model/
-	- https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/
-	- https://medium.com/@yuribett/embracing-the-main-branch-trunk-based-development-vs-git-flow-31aa86ec417c
+- https://nvie.com/posts/a-successful-git-branching-model/
+- https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/
+- https://medium.com/@yuribett/embracing-the-main-branch-trunk-based-development-vs-git-flow-31aa86ec417c
