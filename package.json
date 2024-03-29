@@ -4,7 +4,7 @@
   "description": "The purpose of this project is to establish a suitable workflow for maintaining a web component library that will facilitate various application release stages, including development, testing, quality assurance, and production.",
   "main": "index.js",
   "scripts": {
-    "generate:changelog": "npx conventional-changelog -p angular -i CHANGELOG.md -s -r 2",
+    "generate:changelog": "npx conventional-changelog -p -i CHANGELOG.md -s -r 2",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
