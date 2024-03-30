@@ -1,6 +1,6 @@
 {
   "name": "git-flow",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The purpose of this project is to establish a suitable workflow for maintaining a web component library that will facilitate various application release stages, including development, testing, quality assurance, and production.",
   "main": "index.html",
   "scripts": {
